@@ -24,3 +24,4 @@ import GeminiAI from './geminiAI.js';
     console.error('Error:', error.message);
   }
 })();
+ 
