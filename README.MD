@@ -120,12 +120,3 @@ The best time to grow Wheat in Uttar Pradesh is during the Rabi season. Based on
 - Visualization: Although the current application is text-based, you could extend it to visualize the predictions using Chart.js or D3.js to provide a more interactive experience.
 
 This streamlined process gives you a fully functional AI-driven solution that predicts optimal crop seasons using Kaggle Dataset, Google Cloud's Vertex AI, Gemini and BigQuery. The step-by-step guide ensures that even beginners can follow along, set up their environment, and gain meaningful insights from the model's predictions.
-
-## Get Ahead
-To learn more about Google Cloud services and to create impact for the work you do, get around to these steps right away:
-- Register for [Code Vipassana sessions](https://rsvp.withgoogle.com/events/cv)
-- Sign up to become [Google Cloud Innovator](https://cloud.google.com/innovators)
-
-Thank you for reading this till the end. Please consider sharing this if you think it will help other people. Connect with me on [LinkedIn](https://www.linkedin.com/in/0xFazal) for more.
-
-Visit my portfolio website [fazal.me](https://fazal.me) to know more about my work, blog, projects.
